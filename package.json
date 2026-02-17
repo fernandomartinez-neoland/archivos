@@ -1,0 +1,30 @@
+{
+  "name": "archivos",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000r\u0000c\u0000h\u0000i\u0000v\u0000o\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez-neoland/archivos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez-neoland/archivos/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez-neoland/archivos#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs-extra": "^11.3.3",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
